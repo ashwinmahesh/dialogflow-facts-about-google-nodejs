@@ -1,9 +1,6 @@
-# Actions on Google: Facts about Google Sample using Node.js and Cloud Functions for Firebase
+# My Crypto Portfolio
 
-This is a knowledgeable Assistant app that shares interesting facts about Google.
-The sample introduces advanced features like custom entities, contexts,
-and deep links. Use this app and you might see that it even knows about a
-subject other than Google!
+This is a Google Assistant App that tells you the current value of your cryptocurrency portfolio. You can modify it at any time to update how muchy cryptocurrency you own. 
 
 ## Setup Instructions
 
